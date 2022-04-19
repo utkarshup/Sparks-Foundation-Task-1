@@ -1,5 +1,5 @@
 # Sparks-Foundation-Task-1
-AUTHOR:Utkarsh Upadhyay
+AUTHOR : Utkarsh Upadhyay
 
 Data Science & Business Analytics Internship
 
